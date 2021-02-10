@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">retrofit</string>
+    <string name="get_todos">GET TODOS</string>
+    <string name="get_todo_wit_route_parameter">GET TODO wit Route parameter</string>
+    <string name="get_todo_using_query">Get TODO using query</string>
+    <string name="post_todo">POST TODO</string>
+</resources>
